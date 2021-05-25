@@ -1,2 +1,2 @@
 # Bunch-of-Aseprite-scripts
-Poorly written, poorly optimized and poorly commented, but free for anyone to use and modify.
+These are simple LUA scripts written for very specialized tasks. You are welcome to use and modify them at will. 
