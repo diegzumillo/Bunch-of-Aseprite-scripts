@@ -1,4 +1,5 @@
--- This script replaces all colors by its index+128 of the layer selected (first frame)
+-- This script replaces all colors by its index+128 of the layer selected (first frame). This is done on a tile basis! so even the transparency gets transposed
+-- if there is a single pixel in its 8x8 tile.
 
 
 -- -- select second layer
