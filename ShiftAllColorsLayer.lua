@@ -1,4 +1,4 @@
-
+-- This script replaces all colors by its index+128 of the layer selected (first frame)
 
 
 -- -- select second layer
